@@ -3,8 +3,7 @@
 
 #Welcome to my Github profile
 
-[!gif](https://www.codemotion.com/magazine/wp-content/uploads/2023/01/iStock-1304570729-896x504.jpg)
-
+![gif](https://www.codemotion.com/magazine/wp-content/uploads/2023/01/iStock-1304570729-896x504.jpg)
 ---
 
 #About Me
